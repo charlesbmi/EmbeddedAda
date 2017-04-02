@@ -1,6 +1,9 @@
 # EmbeddedAda
 Notes on getting started with Ada for embedded systems. Based on and extends the references below.
 
+## Getting Started
+Download and install [GNAT](http://libre.adacore.com/download), an Ada Compiler.
+
 ## References
 * [Ada on Cortex-M](http://www.inspirel.com/articles/Ada_On_Cortex_First_Program.html)
 * [Ada Crash Course](http://web.vtc.edu/users/pcc09070/TutorialAda/AdaCrash.pdf)
